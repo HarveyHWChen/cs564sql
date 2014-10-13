@@ -1,0 +1,9 @@
+New England|Massachusetts|55283
+Middle Atlantic|New York|184116
+East North Central|Illinois|124581
+West North Central|Missouri|56240
+South Atlantic|Florida|159535
+East South Central|Tennessee|60689
+West South Central|Texas|283124
+Mountain|Arizona|63366
+Pacific|California|396059

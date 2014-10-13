@@ -1,0 +1,15 @@
+4|Arizona|87297
+6|California|513587
+12|Florida|212077
+13|Georgia|132849
+17|Illinois|162383
+18|Indiana|83264
+26|Michigan|111133
+34|New Jersey|102379
+36|New York|238192
+37|North Carolina|120432
+39|Ohio|135087
+42|Pennsylvania|141011
+48|Texas|385203
+51|Virginia|101199
+53|Washington|86475

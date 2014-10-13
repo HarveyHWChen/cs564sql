@@ -1,0 +1,51 @@
+Ohio|Morrow County|14
+Wisconsin|Kewaunee County|8
+Indiana|Brown County|0
+Illinois|Menard County|2
+Michigan|Lake County|14
+Kentucky|Taylor County|0
+Mississippi|Itawamba County|2
+Tennessee|Grundy County|3
+Alabama|Choctaw County|4
+New Jersey|Camden County|44
+Pennsylvania|Clinton County|4
+New York|Schuyler County|23
+Idaho|Jerome County|3
+Arizona|Greenlee County|187
+Wyoming|Hot Springs County|14
+New Mexico|Union County|3
+Colorado|Phillips County|3
+Nevada|Eureka County|12
+Utah|Piute County|7
+Montana|Prairie County|1
+Connecticut|New Haven County|1
+Rhode Island|Providence County|829
+Massachusetts|Hampshire County|52
+New Hampshire|Belknap County|138
+Maine|Hancock County|7
+Vermont|Franklin County|34
+California|Colusa County|4
+Washington|San Juan County|12
+Alaska|Petersburg Census Area|2
+Oregon|Gilliam County|0
+Hawaii|Kalawao County|0
+District of Columbia|District of Columbia|13303
+Delaware|Kent County|2307
+Maryland|Cecil County|68
+South Carolina|Greenwood County|17
+Virginia|Franklin County|0
+Georgia|Thomas County|0
+Florida|Baker County|37
+West Virginia|Wetzel County|9
+North Carolina|Hyde County|11
+Minnesota|St. Louis County|1
+Missouri|McDonald County|5
+Iowa|Cedar County|9
+South Dakota|Deuel County|1
+North Dakota|LaMoure County|8
+Kansas|Rawlins County|1
+Nebraska|Deuel County|2
+Louisiana|Morehouse Parish|13
+Texas|Hutchinson County|0
+Arkansas|Sevier County|12
+Oklahoma|Coal County|5
